@@ -48,7 +48,7 @@ To run the algorithms and reproduce the results:
    A simple nearest-neighbor approach where the algorithm iteratively selects the nearest unvisited city.
 
 2. **Christofides Algorithm**:  
-   A \( \frac{3}{2} \)-approximation algorithm for Metric TSP, which uses a Minimum Spanning Tree (MST), a perfect matching for odd-degree vertices, and an Eulerian tour.
+   A approximation algorithm for Metric TSP, which uses a Minimum Spanning Tree (MST), a perfect matching for odd-degree vertices, and an Eulerian tour.
 
 3. **Slightly Improved Christofides Algorithm**:  
    A randomized version of Christofides' algorithm that introduces minor refinements (such as epsilon adjustments) to improve the approximation ratio.

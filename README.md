@@ -47,14 +47,10 @@ To run the algorithms and reproduce the results:
     ```
 
 ### Dataset Generation
-The `compare_algorithms.py` script will automatically generate datasets consisting of random cities. Each dataset will have 1000 cities, and the corresponding distance matrix will be computed based on Euclidean distances between cities.
+The `dataset_generator.py` script will automatically generate datasets consisting of random cities. Each dataset will have 1000 cities, and the corresponding distance matrix will be computed based on Euclidean distances between cities.
 
 ### Graphical Output
 The code generates graphical outputs (in `.svg` format) for each dataset, allowing you to visualize the computed routes. The graphs will show the cities' coordinates in a 2D plane and the path taken by each algorithm to visit all cities.
-
-## Community Channels
-
-We have a community chat for discussions! You can join to ask questions, share ideas, and get help from others.
 
 ## Algorithms Overview
 

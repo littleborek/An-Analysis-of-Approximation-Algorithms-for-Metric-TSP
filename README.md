@@ -16,6 +16,11 @@ The total cost of the computed tours for each algorithm is compared.
 ### Spatial Comparison
 The computed routes are visualized and compared on a 2D plane for each dataset.
 
+
+
+![Figure_1](https://github.com/user-attachments/assets/2ddce662-afb0-4445-9483-3e5a45079d89)
+
+
 ## Getting Started
 
 To run the algorithms and reproduce the results:
@@ -39,14 +44,3 @@ To run the algorithms and reproduce the results:
     python compare_algorithms.py
     ```
 
-## Community Channels
-
-We have a community chat for discussions! You can join to ask questions, share ideas, and get help from others.
-
-## Algorithms Overview
-
-1. **Greedy Algorithm**:  
-   A simple nearest-neighbor approach where the algorithm iteratively selects the nearest unvisited city.
-
-2. **Christofides Algorithm**:  
-   A \( \frac{3}{2} \)-approximation algorithm for Metric TSP, which uses a Minimum Spanning Tree 

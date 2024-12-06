@@ -22,7 +22,8 @@ The total cost of the computed tours for each algorithm is compared.
 ### Spatial Comparison
 The computed routes are visualized and compared on a 2D plane for each dataset.
 
-![Uploading 4 fin.PNG…]()
+
+![4 fin](https://github.com/user-attachments/assets/98b38259-b755-4496-8092-0d4a66bf0a03)
 
 
 

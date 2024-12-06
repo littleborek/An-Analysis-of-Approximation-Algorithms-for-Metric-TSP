@@ -1,0 +1,11 @@
+Final Results:
+Dataset 1: Total Distance = 28.394
+Dataset 2: Total Distance = 28.556
+Dataset 3: Total Distance = 28.313
+Dataset 4: Total Distance = 29.070
+Dataset 5: Total Distance = 28.863
+Dataset 6: Total Distance = 29.677
+Dataset 7: Total Distance = 28.255
+Dataset 8: Total Distance = 27.786
+Dataset 9: Total Distance = 29.100
+Dataset 10: Total Distance = 29.142

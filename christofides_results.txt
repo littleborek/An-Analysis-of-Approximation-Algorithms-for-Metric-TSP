@@ -1,0 +1,10 @@
+Dataset 1: Total Cost = 25.637271924909445
+Dataset 2: Total Cost = 26.235705539364965
+Dataset 3: Total Cost = 26.546887974343033
+Dataset 4: Total Cost = 25.840589262953646
+Dataset 5: Total Cost = 25.922341063626572
+Dataset 6: Total Cost = 26.54835232520544
+Dataset 7: Total Cost = 26.114943100717117
+Dataset 8: Total Cost = 25.7616674202249
+Dataset 9: Total Cost = 26.35469905146064
+Dataset 10: Total Cost = 26.098761139921336

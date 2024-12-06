@@ -2,9 +2,15 @@
 
 This repository contains implementations of three algorithms for solving the Metric Traveling Salesman Problem (TSP):
 
-- **Greedy Algorithm**
-- **Christofides Algorithm**
-- **Slightly Improved Christofides Algorithm**
+1. **Greedy Algorithm**:  
+   A simple nearest-neighbor approach where the algorithm iteratively selects the nearest unvisited city.
+
+2. **Christofides Algorithm**:  
+   A approximation algorithm for Metric TSP, which uses a Minimum Spanning Tree (MST), a perfect matching for odd-degree vertices, and an Eulerian tour.
+
+3. **Slightly Improved Christofides Algorithm**:  
+   A randomized version of Christofides' algorithm that introduces minor refinements (such as epsilon adjustments) to improve the approximation ratio.
+
 
 The algorithms are compared in terms of total cost and execution time, with visual representations of the computed tours for each dataset.
 
@@ -44,11 +50,3 @@ To run the algorithms and reproduce the results:
     python compare_algorithms.py
     ```
 
-1. **Greedy Algorithm**:  
-   A simple nearest-neighbor approach where the algorithm iteratively selects the nearest unvisited city.
-
-2. **Christofides Algorithm**:  
-   A approximation algorithm for Metric TSP, which uses a Minimum Spanning Tree (MST), a perfect matching for odd-degree vertices, and an Eulerian tour.
-
-3. **Slightly Improved Christofides Algorithm**:  
-   A randomized version of Christofides' algorithm that introduces minor refinements (such as epsilon adjustments) to improve the approximation ratio.
